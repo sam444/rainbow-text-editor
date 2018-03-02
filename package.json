@@ -1,0 +1,20 @@
+{
+  "name": "rainbowui-text-editor",
+  "version": "2.0.3",
+  "description": "RainbowUI Text Editor",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "RainbowUI Team",
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oss.ebaotech.com/rainbow-ui/text-editor.git"
+  },
+  "dependencies": {
+    "ckeditor": "^4.7.1",
+    "rainbow-foundation-tools": "^2.0.0",
+    "rainbowui-core": "^2.0.0"
+  }
+}
